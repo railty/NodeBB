@@ -1,0 +1,16 @@
+{
+	"custom-css": "Uživatelský CSS/LESS",
+	"custom-css.description": "Zadejte vlastní definici CSS/LESS, která bude nadřazená ostatním stylům.",
+	"custom-css.enable": "Povolit uživatelský CSS/LESS",
+
+	"custom-js": "Uživatelský Javascript",
+	"custom-js.description": "Zadejte zde váš javascriptový kód. Bude spuštěn, jakmile se stránka plně načte.",
+	"custom-js.enable": "Povolit uživatelský Javascript",
+
+	"custom-header": "Uživatelská hlavička",
+	"custom-header.description": "Enter custom HTML here (ex. Meta Tags, etc.), which will be appended to the <code>&lt;head&gt;</code> section of your forum's markup. Script tags are allowed, but are discouraged, as the <a href=\"#custom-js\" data-toggle=\"tab\">Custom Javascript</a> tab is available.",
+	"custom-header.enable": "Povolit uživatelskou hlavičku",
+
+	"custom-css.livereload": "Povolit aktuální znovu načtení",
+	"custom-css.livereload.description": "Povolením si vynutíte, aby všechny relace na každém zařízení pod vaším účtem se kdykoliv obnovili při kliknutí na tlačítko „Uložit”."
+}
