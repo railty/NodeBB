@@ -2,6 +2,7 @@
     "url": "http://localhost:4567",
     "secret": "05193aca-0304-4684-af3c-d535546690d2",
     "database": "mongo",
+    "port": "4567",
     "mongo": {
         "host": "127.0.0.1",
         "port": "27017",
@@ -9,6 +10,5 @@
         "password": "nodebb",
         "database": "nodebb",
         "uri": ""
-    },
-    "port": "4567"
+    }
 }
